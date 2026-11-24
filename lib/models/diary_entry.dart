@@ -1,4 +1,4 @@
-import 'helpers.dart';
+import './helpers.dart';
 
 /// Một món đã ăn. Các giá trị dinh dưỡng là TỔNG (đã nhân khẩu phần).
 class DiaryEntry {
